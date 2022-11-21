@@ -1,0 +1,1099 @@
+@media (min-width: 2560px) {
+
+    .filter__dropmob {
+        display: none;
+    }
+
+    .header__burgerBtn {
+        display: none;
+    }
+
+    .header__search input {
+        height: 50px;
+        font-size: 26px;
+    }
+
+    .header__search button {
+        left: 30px;
+        top: 32px;
+    }
+
+    .header__search img {
+        height: 24px;
+    }
+
+    .header__logo a {
+        font-size: 34px;
+        margin-right: 280px;
+    }
+
+    .header__cart img {
+        height: 24px;
+    }
+
+    .header__user img {
+        height: 24px;
+    }
+
+    .navbar {
+        gap: 80px;
+    }
+
+    .navbar a {
+        font-size: 24px;
+    }
+
+    .heroblock__container {
+        left: 1300px;
+        width: 800px;
+        height: 500px;
+    }
+
+    .heroblock__container__content h2 {
+        font-size: 38px;
+    }
+
+    .heroblock__container__content p {
+        font-size: 24px;
+    }
+
+    .heroblock__btn button {
+        margin-top: 150px;
+        font-size: 20px;
+        width: 140px;
+        height: 70px;
+    }
+
+    .features__top__title {
+        font-size: 30px;
+    }
+
+    .features__list__colomn {
+        gap: 50px;
+    }
+    
+    .list__colmn {
+        width: 360px;
+        height: 260px;
+    }
+
+    .colomn__icon1,
+    .colomn__icon2,
+    .colomn__icon3,
+    .colomn__icon4 {
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 32px;
+        height: 32px;
+    }
+
+    .colmn__item h3 {
+        font-size: 24px;
+    }
+
+    .colmn__item p {
+        font-size: 22px;
+    }
+
+    .list__colmn__item {
+        padding: 18px;
+    }
+
+    .list__colmn__item  img,
+    .products__catalog__list img {
+        width: 360px;
+        height: 360px;
+    }
+
+    .page__home__listings {
+        gap: 15px;
+    }
+
+    .listings__item,
+    .catalog__list__item {
+        font-size: 24px;
+    }
+
+    .listings__item__price,
+    .catalog__list__item__price {
+        font-size: 22px;
+    }
+
+    .listings__btn {
+        font-size: 21px;
+        width: 200px;
+        height: 70px;
+    }
+
+    .features__bottom_img {
+        width: 780px;
+        height: 500px;
+    }
+
+    .features__bottom__container {
+        width: 780px;
+        height: 500px;
+    }
+
+    .features__botoom__content h3 {
+        font-size: 38px;
+    }
+
+    .features__botoom__content p {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .features__botoom__content button {
+        width: 190px;
+        height: 62px;
+
+        font-size: 22px;
+    }
+
+    .email__singup {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .email__singup h3 {
+        font-size: 38px;
+    }
+
+    .email__singup p,
+    .email__singup__list__item span {
+        font-size: 20px;
+    }
+
+    .email__singup__list__item__img {
+        background-repeat: no-repeat;
+        background-size: 24px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .signup__form input {
+        font-size: 24px;
+    }
+
+    .signup__form input::placeholder {
+        font-size: 24px;
+    }
+
+    .signup__form button {
+        width: 130px;
+        font-size: 20px;
+    }
+
+    .column1 h4,
+    .column2 h4,
+    .column3 h4 {
+        font-size: 24px;
+    }
+
+    .column1__list li a,
+    .column2__list li a,
+    .column3__list li a,
+    .footer__signup__form button,
+    .footer__container__social__network span {
+        font-size: 22px;
+    }
+
+    .footer__container__signup__form h4,
+    .container__colmn h3,
+    .content__discript h4,
+    .content__dimensions h4,
+    .cart__product__title__list ul li,
+    .cart__btn__byu span {
+        font-size: 24px;
+    }
+
+    .footer__signup__form button,
+    .footer__signup__form input,
+    .footer__signup__form input::placeholder,
+    .container__colmn label,
+    .list__item span,
+    .dimensions__list li,
+    .dimensions__list2 li,
+    .content__add_product h3,
+    .cart__list__item h4,
+    .cart__list__item p,
+    .cart__list__item span {
+        font-size: 22px;
+    }
+
+    .list__social a img {
+        height: 28px;
+    }
+
+    .plant__container,
+    .ceramics__container,
+    .tables__container,
+    .chairs__container,
+    .crockery__container,
+    .tableware__container,
+    .cutlery__container {
+        justify-content: space-evenly;
+    }
+   
+    .container__colmn {
+        width: 170px;
+    }
+
+    .btn__loadmore {
+        width: 170px;
+        height: 70px;
+        font-size: 22px;
+    }
+
+    .about__header h2 {
+        font-size: 40px;
+    }
+
+    .container__list__content h3,
+    .container__list__content2 h3 {
+        font-size: 30px;
+    }
+
+    .container__list__content p,
+    .container__list__content2 p {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .container__content__btn,
+    .register__content button,
+    .login__btn button  {
+        margin-top: 50px;
+        width: 170px;
+        font-size: 20px;
+    }
+
+    .vacancie__img {
+        width: 840px;
+    }
+
+    .vacancies__pages h2 {
+        font-size: 58px;
+    }
+
+    .contacts__img  {
+        height: 700px;
+        width: 100%;
+    }
+
+    .contacts__items__list  {
+        top: 290px;
+    }
+
+    .contacts__items__list h3,
+    .privacy__pages h2 {
+        font-size: 46px;
+    }
+
+    .content__list li h4 {
+        font-size: 30px;
+        line-height: 46px;
+    }
+
+    .privacy__pages p {
+        font-size: 36px;
+        line-height: 50px;
+    }
+
+    .returns__list li p {
+        width: 160%;
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .returns__img {
+        width: 650px;
+    }
+
+    .product__container {
+        justify-content: center;
+        gap: 40px;
+    }
+
+    .content__discript p {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .cart__list__item img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .cart__btn__byu button,
+    .popup__buy__btn {
+        font-size: 20px;
+    }
+
+    .popup__buy h2,
+    .register__container h2,
+    .login__page h2,
+    .register__content button,
+    .login__btn button {
+        font-size: 30px;
+    }
+
+    .popup__buy__content input,
+    .register__content input,
+    .login__page input {
+        width: 400px;
+        font-size: 24px;
+    }
+
+    .popup__buy__close {
+        width: 50px;
+        height: 50px;
+        left: 460px;
+        font-size: 20px;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+
+    .filter__dropmob {
+        display: none;
+    }
+    
+    .header__burgerBtn {
+        display: none;
+    }
+
+    .heroblock__container {
+        left: 360px;
+        width: 560px;
+    }
+
+    .colomn__icon1,
+    .colomn__icon2,
+    .colomn__icon3,
+    .colomn__icon4 {
+        background-size: 16px;
+        background-repeat: no-repeat;
+    }
+
+    .list__colmn,
+    .list__colmn__item img {
+        width: 210px;
+        height: 210px;
+    }
+
+    .colmn__item h3,
+    .catalog__list__item {
+        font-size: 16px;
+    }
+
+    .colmn__item p {
+        font-size: 12px;
+    }
+
+    .colmn__item {
+        padding: 25px;
+    }
+
+    .features__botoom__content {
+        padding: 30px;
+    }
+
+    .features__bottom_img,
+    .features__bottom__container {
+        width: 460px;
+    }
+
+    .features__botoom__content h3,
+    .about__header h2,
+    .container__list__content h3,
+    .container__list__content2 h3,
+    .product__container__content span,
+    .features__botoom__content p {
+        font-size: 20px;
+    }
+
+    .features__botoom__content p {
+        font-size: 14px;
+        width: 320px;
+    }
+
+    .features__botoom__content button {
+        margin-top: 220px;
+        width: 150px;
+    }
+
+    .page__home__email__signup {
+        height: 310px;
+    }
+
+    .footer__container,
+    .footer__container__social__network {
+        padding: 30px 25px;
+    }
+    
+    .footer__container__social__network {
+        margin: 0;
+    }
+
+    .footer__container__column {
+        gap: 50px;
+    }
+
+    .footer__signup__form input {
+        width: 360px;
+    }
+
+    .heroblock__container__content h2,
+    .product__container__content h2 {
+        font-size: 24px;
+    }
+
+    .all__products__container {
+        margin: 60px 50px 0 40px;
+    }
+
+    .container__list__content,
+    .container__list__content2{
+        margin: 0;
+        padding: 5px;
+        width: 450px;
+        height: 450px;
+        align-items: center;
+    }
+
+    .features1__img,
+    .features2__img  {
+        width: 460px;
+        height: 460px;
+    }
+
+    .container__list__content p,
+    .container__list__content2 p,
+    .container__list__content h3,
+    .container__list__content2 h3 {
+        width: 300px;
+    }
+
+    .container__content__btn {
+        margin-top: 10px;
+    }
+
+    .contacts__img {
+        width: 1928;
+    }
+
+    .contacts__items__list {
+        top: 233px;
+    }
+
+    .product__img img {
+        width: 500px;
+        height: 500px;
+    }
+    
+    .product__container__content {
+        margin: 0;
+        padding: 10px;
+    }
+
+    .list__item span,
+    .email__singup p {
+        font-size: 16px;
+    }
+
+    .content__discript {
+        margin-top: 10px;
+    }
+
+    .content__add_product {
+        margin-top: 30px;
+    }
+
+    .product__add_cart {
+        margin-left: 110px;
+    }
+
+    .popup__buy__content {
+        background: rgb(0.5, 0.5, 0.5);
+    }
+
+    .page__home__features__bottom {
+        margin: 30px;
+    }
+
+    .filter__dropmob {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    
+    .header__burgerBtn {
+        display: none;
+    }
+
+    .heroblock__container {
+        left: 180px;
+        width: 500px;
+        top: 260px;
+    }
+
+    .features__list__colomn {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .page__home__listings {
+        flex-wrap: wrap;
+    }
+
+    .page__home__features__bottom {
+        display: block;
+    }
+
+    .features__bottom__container,
+    .features__bottom_img {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+    }
+
+    .features__bottom_img,
+    .features__bottom__container {
+        width: 680px;
+    }
+
+    .features__botoom__content {
+        text-align: center;
+    }
+
+    .features__botoom__content p {
+        width: 100%;
+    }
+
+    .footer__container {
+        display: block;
+    }
+
+    .footer__container__column {
+        justify-content: space-around;
+    }
+
+    .footer__container__signup__form {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .products__catalog__list img {
+        width: 150px;
+        height: 150px;
+        justify-content: center;
+    }
+
+    .catalog__list__item__price {
+        font-size: 14px;
+    }
+
+    .about__features1,
+    .about__features2 {
+        flex-wrap: wrap;
+    }
+
+    .about__features2 {
+        margin-top: 10px;
+    }
+
+    .contacts__img {
+        width: 768px;
+        height: 479px;
+    }
+
+    .returns__content {
+        display: block;
+        text-align: center;
+    }
+    
+    .returns__img {
+        width: 100%;
+    }
+
+    .returns__list {
+        align-items: center;
+        margin-top: 15px;
+    }
+
+    .product__container {
+        display: block;
+    }
+
+    .product__img {
+        text-align: center;
+    }
+    
+    .product__img img {
+        width: 350px;
+        height: 350px;
+    }
+
+    .product__container__content {
+        align-items: center;
+    }
+
+    .listings__title h3 {
+        margin-left: 35px;
+        font-size: 24px;
+    }
+
+    .cart__conrainer {
+        margin: 50px 120px;
+    }
+
+    .filter__dropmob {
+        display: none;
+    }
+
+}
+
+@media (max-width: 426px) {
+    
+    .filter__dropmob {
+        display: flex;
+    }
+
+    .header__burgerBtn {
+        display: block;
+        margin-bottom: 16px;
+    }
+
+    .header__utility,
+    .header__nav,
+    .heroblock__img {
+        display: none;
+    }
+
+    .heroblock__container {
+        position: static;
+    }
+
+    .heroblock__container {
+        background-color: #FFE4B5;
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .heroblock__btn button {
+        background-color: #b9a583;
+    }
+    
+    .vacancies__pages h2,
+    .contacts__items__list h3 {
+        font-size: 26px;
+    }
+
+    .colomn__icon1,
+    .colomn__icon2,
+    .colomn__icon3, 
+    .colomn__icon4,
+    .popup__buy h2 {
+        background-size: 24px;
+    }
+
+    .features__top__title,
+    .email__singup h3 {
+        font-size: 22px;
+    }
+
+    .colmn__item h3,
+    .cart__conrainer h2 {
+        font-size: 20px;
+    }
+
+    .heroblock__container__content h2,
+    .colmn__item p,
+    .signup__form input,
+    .footer__signup__form input,
+    .content__list li h4 {
+        font-size: 18px;
+    }
+
+    .returns__list li p {
+        font-size: 16px;
+    }
+    
+    .cart__list__item p {
+        font-size: 12px;
+    }
+
+    .list__colmn,
+    .list__colmn__item img {
+        width: 315px;
+        height: 230px;
+    }
+
+    .list__colmn__item img {
+        width: 140px;
+        height: 140px;
+    }
+
+    .features__bottom__container,
+    .features__bottom_img {
+        width: 315px;
+        height: 260px;
+    }
+
+    .features__botoom__content button {
+        margin-top: 20px;
+    }
+
+    .email__singup {
+        text-align: start;
+        width: 410px;
+    }
+    
+    .email__singup__list {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .signup__form input,
+    .footer__signup__form input {
+        width: 225px;
+        height: 50px;
+    }
+
+    .email__singup p {
+        width: 380px;
+    }
+
+    .signup__form {
+        margin-top: 20px;
+        justify-content: center;
+    }
+
+    .footer__container__signup__form {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .list__social {
+        gap: 10px;
+    }
+
+    .header__logo a {
+        margin-right: 0;
+    }
+
+    .header__nav__mob .navbar {
+        flex-wrap: wrap;
+    }
+
+    .header__nav__mob .navbar a {
+        color: white;
+    }
+
+    .newarrivals__container, .bestsellers__container  {
+        gap: 15px;
+    }
+
+    .page__header h2 {
+        font-size: 42px;
+        top: 75px;
+        left: 110px;
+    }
+
+    .all__products {
+        flex-direction: column;
+    }
+
+    .all__products__container {
+        display: none;
+    }
+
+    .all__products__catalog {
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 20px;
+        justify-content: center;
+    }
+
+    .products__catalog__loadmore {
+        margin: 20px 0;
+    }
+
+    .vacancie__img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .vacancies__pages {
+        display: block;
+        text-align: center;
+        height: 450px;
+    }
+
+    .contacts__items__list {
+        top: 160px;
+        left: 90px;
+    }
+
+    .returns__list li {
+        width: 300px;
+    }
+
+    .product__img img {
+        width: 430px;
+        height: 400px;
+    }
+
+    .content__discript {
+        text-align: center;
+    }
+
+    .content__discript p {
+        width: 180px;
+    }
+
+    .product__add_cart {
+        margin-left: 10px;
+    }
+
+    .cart__product__title__list {
+        display: none;
+    }
+
+    .cart__conrainer {
+        margin: 20px;
+    }
+
+    .popup__buy__content input {
+        width: 260px;
+    }
+
+    .popup__buy__close {
+        left: 330px;
+    }
+
+}
+
+@media (max-width: 376px) {
+    .heroblock__container {
+        width: 360px;
+    }
+
+    .email__singup {
+        width: 370px;
+    }
+
+    .email__singup p {
+        width: 350px;
+    }
+
+    .burger__close {
+        top: 20px;
+        left: 332px;
+    }
+
+    .plant__container,
+    .ceramics__container,
+    .tables__container,
+    .chairs__container,
+    .crockery__container,
+    .tableware__container,
+    .cutlery__container {
+        margin: 30px;
+    }
+
+    .vacancies__pages h2 {
+        font-size: 22px;
+    }
+
+    .contacts__items__list {
+        left: 40px;
+        top: 210px;
+    }
+
+    .product__add_cart {
+        width: 110px;
+        height: 40px;
+        font-size: 13px;
+    }
+
+    .product__minus,
+    .product__plus {
+        width: 35px;
+    }
+
+    .product__img img {
+        width: 350px;
+    }
+
+    .cart__list__item p {
+        display: none;
+    }
+
+    .cart__list__item {
+        gap: 65px;
+    }
+
+    .popup__buy h2 {
+        font-size: 23px;
+    }
+
+    .register__content input,
+    .login__page input {
+        width: 270px;
+    }
+}
+
+@media (max-width: 320px) {
+    .heroblock__container {
+        width: 310px;
+    }
+
+    .list__colmn,
+    .list__colmn__item img {
+        width: 270px;
+        height: 190px;
+    }
+
+    .features__bottom__container,
+    .features__bottom_img {
+        width: 270px;
+        height: 260px;
+    }
+
+    .features__botoom__content h3,
+    .email__singup h3 {
+        font-size: 16px;
+    }
+
+    .features__botoom__content p,
+    .email__singup p,
+    .email__singup__list__item span {
+        font-size: 12px;
+    }
+
+    .signup__form button,
+    .footer__signup__form button {
+        width: 90px;
+        padding: 0;
+    }
+
+    .email__singup {
+        width: 290px;
+    }
+
+    .email__singup p {
+        width: 270px;
+    }
+
+    .signup__form input,
+    .footer__signup__form input {
+        width: 200px;
+    }
+
+    .list__social {
+        gap: 0;
+    }
+
+    .footer__container__column {
+        gap: 30px;
+    }
+
+    .colmn__item {
+        padding: 20px;
+    }
+
+    .burger__close {
+        left: 277px;
+    }
+
+    .page__header h2 {
+        font-size: 30px;
+        left: 75px;
+    }
+
+    .all__products__catalog {
+        gap: 10px;
+    }
+
+    .products__catalog__list img {
+        width: 130px;
+        height: 130px;
+    }
+
+    .plant__container,
+    .ceramics__container,
+    .tables__container,
+    .chairs__container,
+    .crockery__container,
+    .tableware__container,
+    .cutlery__container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about__header h2 {
+        font-size: 15px;
+    }
+    
+    .container__list__content, .container__list__content2 {
+        font-size: 12px;
+        width: 300px;
+    }
+
+    .container__list__content h3,
+    .container__list__content2 h3,
+    .container__list__content p,
+    .container__list__content2 p {
+        width: 250px;
+        text-align: center;
+    }
+
+    .container__content__btn {
+        width: 130px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .vacancies__pages h2 {
+        font-size: 18px;
+    }
+
+    .contacts__items__list {
+        left: 8px;
+        top: 165px;
+    }
+
+    .dimensions__list li,
+    .dimensions__list2 li {
+        width: 80px;
+    }
+
+    .content__add_product {
+        width: 220px;
+    }
+
+    .product__add_cart {
+        font-size: 10px;
+    }
+
+    .content__add_product h3 {
+        font-size: 14px;
+        width: 110px;
+    }
+
+    .cart__list__item {
+        gap: 0;
+        flex-direction: column;
+        align-items: center;
+    }
+}
